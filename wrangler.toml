@@ -1,0 +1,4 @@
+# Cloudflare Pages — static site, no build step
+name = "praveen-portfolio"
+compatibility_date = "2026-07-19"
+pages_build_output_dir = "."
