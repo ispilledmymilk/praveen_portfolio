@@ -1,6 +1,6 @@
 # Cloudflare deploy uses: npx wrangler deploy
 # Serve the static site from ./public
-name = "praveen-kasturi"
+name = "praveenkasturi"
 compatibility_date = "2026-07-19"
 
 [assets]
