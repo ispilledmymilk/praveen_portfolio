@@ -1,7 +1,10 @@
-# Cloudflare Pages config
-# Dashboard create → Pages (not Workers) → project name: praveen-kasturi
-# Build command: exit 0
-# Build output directory: public
+# Cloudflare Pages — project name must be: praveenkasturi
+# → URL: https://praveenkasturi.pages.dev
+#
+# CRITICAL (dashboard → Settings → Builds):
+#   Build command:  npm run build   (or: exit 0)
+#   Deploy command: npm run deploy  (or: npx wrangler pages deploy)
+# Do NOT use: npx wrangler deploy
 name = "praveenkasturi"
 compatibility_date = "2026-07-19"
 pages_build_output_dir = "public"

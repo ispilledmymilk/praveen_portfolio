@@ -1,0 +1,11 @@
+{
+  "name": "praveen-kasturi",
+  "private": true,
+  "scripts": {
+    "build": "exit 0",
+    "deploy": "wrangler pages deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.112.0"
+  }
+}
