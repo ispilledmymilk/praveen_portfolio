@@ -1,4 +1,5 @@
 # Cloudflare Pages — static site, no build step
-name = "praveen-portfolio"
+# Dashboard: Framework preset = None | Build command = exit 0 | Output directory = /
+name = "praveen-kasturi"
 compatibility_date = "2026-07-19"
 pages_build_output_dir = "."
