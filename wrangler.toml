@@ -1,5 +1,8 @@
-# Cloudflare Pages — static site, no build step
-# Dashboard: Framework preset = None | Build command = exit 0 | Output directory = /
+# Cloudflare deploy uses: npx wrangler deploy
+# Serve the static site from ./public
 name = "praveen-kasturi"
 compatibility_date = "2026-07-19"
-pages_build_output_dir = "."
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
