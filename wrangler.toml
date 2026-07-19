@@ -2,6 +2,6 @@
 # Dashboard create → Pages (not Workers) → project name: praveen-kasturi
 # Build command: exit 0
 # Build output directory: public
-name = "praveen-kasturi"
+name = "praveenkasturi"
 compatibility_date = "2026-07-19"
 pages_build_output_dir = "public"
