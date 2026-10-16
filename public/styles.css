@@ -437,6 +437,12 @@ a {
   font-style: italic;
 }
 
+.role-summary {
+  margin: 0.7rem 0 0;
+  max-width: 46rem;
+  color: var(--ink);
+}
+
 .role ul {
   margin: 0.85rem 0 0;
   padding-left: 1.1rem;
