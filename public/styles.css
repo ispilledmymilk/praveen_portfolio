@@ -11,9 +11,9 @@
   --line: rgba(21, 32, 40, 0.12);
   --hero-veil: linear-gradient(
     105deg,
-    rgba(15, 51, 72, 0.92) 0%,
-    rgba(15, 51, 72, 0.78) 42%,
-    rgba(15, 51, 72, 0.35) 100%
+    rgba(8, 24, 36, 0.94) 0%,
+    rgba(10, 32, 48, 0.88) 46%,
+    rgba(10, 32, 48, 0.55) 100%
   );
   --font-display: "Barlow Condensed", "Arial Narrow", sans-serif;
   --font-body: "Source Sans 3", "Segoe UI", sans-serif;
