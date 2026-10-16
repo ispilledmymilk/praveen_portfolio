@@ -1,10 +1,9 @@
-# Cloudflare Pages — project name must be: praveenkasturi
-# → URL: https://praveenkasturi.pages.dev
-#
-# CRITICAL (dashboard → Settings → Builds):
-#   Build command:  npm run build   (or: exit 0)
-#   Deploy command: npm run deploy  (or: npx wrangler pages deploy)
-# Do NOT use: npx wrangler deploy
-name = "praveenkasturi"
-compatibility_date = "2026-07-19"
-pages_build_output_dir = "public"
+# Live site: https://portfolio.praveenkasturi.workers.dev
+name = "portfolio"
+compatibility_date = "2026-10-16"
+workers_dev = true
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
+html_handling = "auto-trailing-slash"
